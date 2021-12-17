@@ -24,52 +24,53 @@
 tab=()
 
 # Fonction pour supprimer les doublons dans notre tableau tab
-function triExtention(){
-    sort tab
-    #echo ${tab[@]}
-    sort tab | uniq
-    echo ${tab[@]}
+# function triExtention(){
+#     sort tab
+#     #echo ${tab[@]}
+#     sort tab | uniq
+#     echo ${tab[@]}
 
-    # IFS=$'\n' sorted=($(sort <<<"${tab[*]}"))
-    # printf "[%s]\n" "${sorted[@]}"
+#     # IFS=$'\n' sorted=($(sort <<<"${tab[*]}"))
+#     # printf "[%s]\n" "${sorted[@]}"
 
-    
-
-    
-}
+# }
 
 # Fonction pour créer un sous répertoire pour chaque extension
 function sousRepertoire(){
     # Boucle for pour parcourir le tableau avec les extentions
-    for ext in tab
-        do
-            mkdir $ext
-        done
+    for filename in *; do
+        if [[ -f "$filename" ]]; then
+            base=${filename%.*}
+            ext=${filename#$base.}
+            mkdir -p "${ext}"
+            mv "$filename" "${ext}"
+        fi
+done
 
 }
 
 
-# Fonction pour déplacer ( mv ) chaque fichier selon son extension dans le répertoire approprié
-function deplacer(){
-    echo "je deplace !"
-}
+# # Fonction pour déplacer ( mv ) chaque fichier selon son extension dans le répertoire approprié
+# function deplacer(){
+#     echo "je deplace !"
+# }
 
 # Fonction pour lister les extensions de fichier
-function extention(){
-    # je vais dans le dossier
-    cd $dossier
-    # Pour vérifier
-    echo "Extensions"
-    # Création d'une boucle pour parcourir le dossier et récupérer les extensions de fichier
-    for file in *; do 
-        if [ -f "$file" ]; then 
-            # echo "${file##*.}"
-            tab=( "${tab[@]}" "${file##*.}")
-        fi 
-    done
-    #echo ${tab[@]}
+# function extention(){
+#     # je vais dans le dossier
+#     cd $dossier
+#     # Pour vérifier
+#     echo "Extensions"
+#     # Création d'une boucle pour parcourir le dossier et récupérer les extensions de fichier
+#     for file in *; do 
+#         if [ -f "$file" ]; then 
+#             # echo "${file##*.}"
+#             tab=( "${tab[@]}" "${file##*.}")
+#         fi 
+#     done
+#     #echo ${tab[@]}
 
-}
+# }
 
 
 
@@ -79,8 +80,9 @@ function classer(){
     # je vais dans le dossier à classer
     cd $dossier
     echo " je classe !"
-    extention
-    triExtention
+    # extention
+    # triExtention
+    sousRepertoire
 
 
     # Création d'une boucle pour parcourir le dossier
