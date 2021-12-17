@@ -1,0 +1,1067 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L15S2022O1N053</uid>
+  <seanceRef>RUANR5L15S2022IDS25023</seanceRef>
+  <sessionRef>SCR5A2022O1</sessionRef>
+  <metadonnees>
+    <dateSeance>20211108150000000</dateSeance>
+    <dateSeanceJour>lundi 08 novembre 2021</dateSeanceJour>
+    <numSeanceJour>2</numSeanceJour>
+    <numSeance>53</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>15</legislature>
+    <session>Session ordinaire 2021-2022</session>
+    <nomFichierJo>20220053</nomFichierJo>
+    <validite>valide</validite>
+    <etat>provisoire</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2021-11-08T21:36:22.000+01:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="2674070">Présidence de Mme Annie Genevard</presidentSeance>
+      <sommaire1 type_debat="PLF" valeur_pts_odj="1">
+        <titreStruct type_debat="PLF" id_syceron="2674074">
+          <intitule>Projet de loi de finances pour 2022</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+        <sommaire2 type_debat="PLF">
+          <titreStruct type_debat="PLF" id_syceron="2674075">
+            <intitule>
+              <italique>Seconde partie (suite)</italique>
+            </intitule>
+          </titreStruct>
+          <sommaire3 type_debat="PLF">
+            <titreStruct type_debat="PLF" id_syceron="2674077">
+              <intitule>Économie ; investissements d’avenir ; engagements financiers de l’État (suite)</intitule>
+            </titreStruct>
+          </sommaire3>
+          <sommaire3 type_debat="PLF">
+            <titreStruct type_debat="PLF" id_syceron="2674081">
+              <intitule>Après l’article 42 <italique>(suite)</italique></intitule>
+            </titreStruct>
+            <para>Amendement n<sup>o</sup> <lienAdt id_syceron="2674082"> 2734</lienAdt></para>
+            <para id_syceron="2674083">Mme Agnès Pannier-Runacher, ministre déléguée chargée de l’industrie</para>
+            <para id_syceron="2674085">M. Xavier Roseren, rapporteur spécial de la commission des finances, de l’économie générale et du contrôle budgétaire</para>
+            <para>Amendements n<sup>os</sup> <lienAdt id_syceron="2674089"> 2733</lienAdt>, <lienAdt id_syceron="2674097"> 2438</lienAdt></para>
+            <para id_syceron="2674098">Mme Anne-Laure Blin, rapporteure pour avis de la commission des affaires économiques</para>
+            <para id_syceron="2674105">M. Sébastien Jumel, rapporteur pour avis de la commission des affaires économiques</para>
+            <para>Amendements n<sup>os</sup> <lienAdt id_syceron="2674114"> 2442</lienAdt>, <lienAdt id_syceron="2674119"> 2443</lienAdt></para>
+          </sommaire3>
+          <sommaire3 type_debat="PLF">
+            <titreStruct type_debat="PLF" id_syceron="2674124">
+              <intitule>Mission <italique>Investissements d’avenir</italique> (état B)</intitule>
+            </titreStruct>
+            <para>Amendement n<sup>o</sup> <lienAdt id_syceron="2674126"> 2389</lienAdt></para>
+          </sommaire3>
+          <sommaire3 type_debat="PLF">
+            <titreStruct type_debat="PLF" id_syceron="2674143">
+              <intitule>
+                <italique>Suspension et reprise de la séance</italique>
+              </intitule>
+            </titreStruct>
+            <para>Amendements n<sup>os</sup> <lienAdt id_syceron="2674147"> 1159</lienAdt>, <lienAdt id_syceron="2674174"> 1158, 1157</lienAdt></para>
+          </sommaire3>
+          <sommaire3 type_debat="PLF">
+            <titreStruct type_debat="PLF" id_syceron="2674179">
+              <intitule>Compte d’affectation spéciale <italique>Accords monétaires internationaux</italique> (état D)</intitule>
+            </titreStruct>
+          </sommaire3>
+          <sommaire3 type_debat="PLF">
+            <titreStruct type_debat="PLF" id_syceron="2674182">
+              <intitule>Compte d’affectation spéciale <italique>Prêts et avances à des particuliers ou à des organismes privés</italique> (état D)</intitule>
+            </titreStruct>
+          </sommaire3>
+          <sommaire3 type_debat="PLF">
+            <titreStruct type_debat="PLF" id_syceron="2674185">
+              <intitule>Mission <italique>Engagements financiers de l’État</italique> (état B)</intitule>
+            </titreStruct>
+          </sommaire3>
+          <sommaire3 type_debat="PLF">
+            <titreStruct type_debat="PLF" id_syceron="2674187">
+              <intitule>Article 20</intitule>
+            </titreStruct>
+            <para>Amendement n<sup>o</sup> <lienAdt id_syceron="2674188"> 2708</lienAdt></para>
+            <para id_syceron="2674191">Mme Bénédicte Peyrol, rapporteure spéciale de la commission des finances, de l’économie générale et du contrôle budgétaire</para>
+            <para>Amendement n<sup>o</sup> <lienAdt id_syceron="2674193"> 1168</lienAdt></para>
+          </sommaire3>
+        </sommaire2>
+      </sommaire1>
+      <sommaire1 type_debat="PLF" valeur_pts_odj="2">
+        <titreStruct type_debat="PLF" id_syceron="2674251">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Deuxième séance du lundi 08 novembre 2021</journee>
+      <session>Session ordinaire 2021-2022</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="1981544" ordre_absolu_seance="1" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="2674070" valeur="">
+      <orateurs/>
+      <texte>Présidence de Mme Annie Genevard<br/>vice-présidente</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1981545" ordre_absolu_seance="2" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2674071" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>605991</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="1981546" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2674072" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à quinze heures.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981548" ordre_absolu_seance="5" code_grammaire="APPEL_PLF_1_20" code_style="Titre" code_parole="" sommaire="1" id_syceron="2674074" type_debat="PLF" valeur=" (n[[o]] 4482)">
+      <orateurs/>
+      <texte>Projet de loi de finances pour 2022</texte>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981549" ordre_absolu_seance="6" code_grammaire="APPEL_PLF_1_30" code_style="Titre en ital" code_parole="" sommaire="1" id_syceron="2674075" type_debat="PLF" valeur=" Seconde partie ">
+      <orateurs/>
+      <texte>
+        <italique>Seconde partie (suite)</italique>
+      </texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981550" ordre_absolu_seance="7" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="APPEL_PLF_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2674076" type_debat="PLF" valeur=" (n[[os]] 4482, 4524)" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>605991</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle la suite de la discussion de la seconde partie du projet de loi de finances pour 2022 (n<exposant>os</exposant> 4482, 4524).</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981551" ordre_absolu_seance="8" code_grammaire="PLF_3_1" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="2674077" type_debat="PLF" valeur=" DB, AV, ZA, ZF, EB, YM, YC, ZB">
+      <orateurs/>
+      <texte>Économie ; investissements d’avenir ; engagements financiers de l’État (suite)</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981552" ordre_absolu_seance="9" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PLF_4_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2674078" type_debat="PLF" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>605991</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Nous poursuivons l’examen des crédits des missions <italique>Économie </italique>et <italique>Investissements d’avenir</italique>, ainsi que des crédits relatifs aux comptes spéciaux <italique>Accords monétaires internationaux</italique> et <italique>Prêts et avances à des particuliers ou à des organismes privés</italique>, puis des crédits de la mission <italique>Engagements financiers de l’État</italique> et des crédits des comptes spéciaux <italique>Participation de la France au désendettement de la Grèce</italique>, <italique>Participations financières de l’État</italique> et <italique>Avances à divers services de l’État ou organismes gérant des services</italique> (n<exposant>o</exposant> 4524, annexes 14, 19 à 22 et 43 ; n<exposant>o</exposant> 4527, tomes VII à XI ; n<exposant>o</exposant> 4526, tome VI ) .</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981555" ordre_absolu_seance="10" code_grammaire="DISC_ARTICLES_2_4" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="2674081" type_debat="PLF" valeur="Après_ 42" bibard="" art="Après_ 42" adt="" ssadt="">
+      <orateurs/>
+      <texte>Après l’article 42 <italique>(suite)</italique></texte>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981556" ordre_absolu_seance="11" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="2674082" valeur=" 2734" bibard="" art="Après_ 42" adt=" 2734" ssadt="">
+        <interExtraction nom_orateur="Mme Agnès Pannier-Runacher, quali  ministre déléguée chargée de l'industrie" id_acteur="PA759832" id_nomination_oe="PM773465" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981556" ordre_absolu_seance="11" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2674082" type_debat="PLF" valeur=" 2734" bibard="" art="Après_ 42" adt=" 2734" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Ce matin, l’Assemblée a commencé l’examen d’une série d’amendements portant article additionnel après l’article 42 et rattachés à la mission <italique>Économie</italique>, s’arrêtant à l’amendement n<exposant>o</exposant> 2734.<br/>La parole est à Mme la ministre déléguée chargée de l’industrie, pour le soutenir.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981557" ordre_absolu_seance="12" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM773465" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2674083" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Agnès Pannier-Runacher</nom>
+                <id>759832</id>
+                <qualite>ministre déléguée chargée de l’industrie</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Il vise à prolonger de six mois supplémentaires, jusqu’au 30 juin 2022, le dispositif des prêts participatifs destiné aux petites entreprises, en particulier à celles dont le bilan financier et les fonds propres ont été fragilisés par la crise sanitaire. Rappelons que les prêts participatifs ciblent tout particulièrement les entreprises qui ne peuvent pas bénéficier d’un prêt garanti par l’État (PGE).</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Xavier Roseren, quali  rapporteur spécial de la commission des finances, de l'économie générale et du contrôle budgétaire" id_acteur="PA721458" id_nomination_oe="-1" id_nomination_op="-4339680" id_mandat="PM723280">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981558" ordre_absolu_seance="13" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="2674084" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. Xavier Roseren, rapporteur spécial de la commission des finances, de l’économie générale et du contrôle budgétaire, pour donner l’avis de la commission.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981559" ordre_absolu_seance="14" id_acteur="PA721458" id_mandat="PM723280" id_nomination_oe="-1" id_nomination_op="-4339680" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="1" id_syceron="2674085" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Xavier Roseren</nom>
+                <id>721458</id>
+                <qualite>rapporteur spécial de la commission des finances, de l’économie générale et du contrôle budgétaire</qualite>
+              </orateur>
+            </orateurs>
+            <texte>La prolongation du dispositif des prêts participatifs m’apparaît tout à fait logique pour assurer le soutien des entreprises. La commission n’a pas examiné cet amendement, mais j’y suis donc bien évidemment favorable à titre personnel.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Éric Coquerel" id_acteur="PA721202" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723202">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981560" ordre_absolu_seance="15" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2674086" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. Éric Coquerel.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981561" ordre_absolu_seance="16" id_acteur="PA721202" id_mandat="PM723202" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2674087" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Éric Coquerel</nom>
+                <id>721202</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Les députés du groupe La France insoumise estiment qu’une prolongation de six mois n’est pas suffisante et que sa durée devrait être portée à deux ans. Le Gouvernement et le ministre de l’économie, des finances et de la relance, Bruno Le Maire, ont beau vanter les résultats mirifiques de l’économie, la croissance retrouvée, le niveau de l’emploi plus haut que jamais et la baisse de la pauvreté, je n’y crois pas. Je conteste une partie des chiffres qu’ils avancent car ils ne reflètent pas la réalité de notre pays. La perte de richesses engendrée par la crise sanitaire pendant deux ans et, probablement, pendant les mois à venir – nous verrons ce que dira demain soir le chef de l’État, mais, de toute évidence, cette épidémie n’est pas derrière nous –, nécessite de donner aux toutes petites entreprises une visibilité supérieure à six mois. C’est également la raison pour laquelle nous avons demandé que le remboursement des PGE soit prolongé pendant deux ans.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981562" ordre_absolu_seance="17" code_grammaire="ADOP_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2674088" type_debat="PLF" valeur=" 2734" decision="ADOPTION amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant> 2734 est adopté.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981563" ordre_absolu_seance="18" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="2674089" valeur=" 2733" bibard="" art="Après_ 42" adt=" 2733" ssadt="">
+        <interExtraction nom_orateur="M. Xavier Roseren, quali  rapporteur spécial" id_acteur="PA721458" id_nomination_oe="-1" id_nomination_op="-4339680" id_mandat="PM723280">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981563" ordre_absolu_seance="18" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2674089" type_debat="PLF" valeur=" 2733" bibard="" art="Après_ 42" adt=" 2733" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. le rapporteur spécial, pour soutenir l’amendement n<exposant>o</exposant> 2733.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981564" ordre_absolu_seance="19" id_acteur="PA721458" id_mandat="PM723280" id_nomination_oe="-1" id_nomination_op="-4339680" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2674090" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Xavier Roseren</nom>
+                <id>721458</id>
+                <qualite>rapporteur spécial</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Les activités de BPIFrance ont connu une forte croissance dans le cadre de la mise en œuvre du plan de relance – je veux d’ailleurs saluer le travail de la banque publique d’investissement pendant cette période de crise économique. BPIFrance conduit des activités à la fois pour son compte propre et pour le compte de tiers. Le Parlement doit avoir une vision claire de ces activités et de l’action de la banque dans sa globalité. Dans une optique de contrôle, l’amendement n<exposant>o</exposant> 2733 prévoit l’ajout d’un rapport annexé au projet de loi de finances, rendant compte au Parlement des relations financières entre l’État et BPIFrance. Ce rapport annexé permettrait de retracer l’ensemble des financements publics alloués à BPIFrance et fournirait au Parlement des informations complètes sur ses activités financières.<br/>Avec ma collègue Valéria Faure-Muntian, également rapporteure spéciale sur la mission <italique>Économie</italique>, nous sommes favorables, à titre personnel, à cet amendement, mais il n’a pas été examiné par la commission.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981570" ordre_absolu_seance="21" code_grammaire="ADOP_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2674096" type_debat="PLF" valeur=" 2733" decision="ADOPTION amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant> 2733, accepté par le Gouvernement, est adopté.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981571" ordre_absolu_seance="22" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="2674097" valeur=" 2438" bibard="" art="Après_ 42" adt=" 2438" ssadt="">
+        <interExtraction nom_orateur="Mme Anne-Laure Blin" qualite="rapporteure pour avis de la commission des affaires économiques" id_acteur="PA774954" id_nomination_oe="-1" id_nomination_op="-2324916" id_mandat="PM774972">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981571" ordre_absolu_seance="22" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2674097" type_debat="PLF" valeur=" 2438" bibard="" art="Après_ 42" adt=" 2438" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme Anne-Laure Blin, rapporteure pour avis de la commission des affaires économiques, pour soutenir l’amendement n<exposant>o</exposant> 2438.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981572" ordre_absolu_seance="23" id_acteur="PA774954" id_mandat="PM774972" id_nomination_oe="-1" id_nomination_op="-2324916" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2674098" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Anne-Laure Blin</nom>
+                <id>774954</id>
+                <qualite>rapporteure pour avis de la commission des affaires économiques</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Cet amendement, qui demande la remise au Parlement d’un rapport dressant le bilan du fonctionnement des services en ligne créés par l’État afin de permettre aux entreprises d’accomplir à distance les formalités nécessaires à leur activité, s’inscrit dans la continuité des travaux que j’ai conduits dans le cadre de mon rapport pour avis sur la mission <italique>Économie, </italique>« Développement des entreprises et régulations », au nom de la commission des affaires économiques.<br/>Les auditions ont montré que les entreprises sont demandeuses d’une harmonisation des services permettant d’effectuer les formalités relatives à leur activité et que l’État a avancé dans sa réflexion sur la création de guichets numériques. Malheureusement, nous ne disposons toujours pas d’éléments concrets sur le fonctionnement de ces différents portails. Tel est le sens du rapport proposé par le présent amendement.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Xavier Roseren, quali  rapporteur spécial" id_acteur="PA721458" id_nomination_oe="-1" id_nomination_op="-4339680" id_mandat="PM723280">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981574" ordre_absolu_seance="25" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="2674100" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis de la commission ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981575" ordre_absolu_seance="26" id_acteur="PA721458" id_mandat="PM723280" id_nomination_oe="-1" id_nomination_op="-4339680" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="2674101" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Xavier Roseren</nom>
+                <id>721458</id>
+                <qualite>rapporteur spécial</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Nous attachons une grande importance à la dématérialisation et à la numérisation des services aux entreprises. Vous demandez un rapport évaluant l’efficacité des services en ligne de l’État du point de vue des besoins des entreprises, notamment les plus petites. Toutefois, cette thématique ne me paraît pas devoir relever d’un projet de loi de finances. Elle mériterait, en revanche, de faire l’objet d’une évaluation des parlementaires dans le cadre d’une mission d’information. Avis défavorable à titre personnel.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="Mme Agnès Pannier-Runacher, quali  ministre déléguée" id_acteur="PA759832" id_nomination_oe="PM773465" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981576" ordre_absolu_seance="27" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_10" sommaire="0" id_syceron="2674102" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis du Gouvernement ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981577" ordre_absolu_seance="28" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM773465" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_20" sommaire="0" id_syceron="2674103" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Agnès Pannier-Runacher</nom>
+                <id>759832</id>
+                <qualite>ministre déléguée</qualite>
+              </orateur>
+            </orateurs>
+            <texte>La question posée par l’amendement – l’accès des entreprises aux dispositifs numériques, leur efficacité et leur ajustement le cas échéant – est légitime, mais elle intervient soit trop tôt, soit trop tard. Le 1<exposant>er</exposant> janvier 2023, vous le savez, tous les dispositifs existants – le portail Guichet entreprises et les démarches en ligne proposées par les sites Autoentrepreneur et Infogreffe – seront remplacés par un guichet unique piloté par l’Institut national de la propriété industrielle (INPI), auquel nous devons laisser le temps d’élaborer le nouveau dispositif et de mesurer son efficacité. Avis défavorable.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Sébastien Jumel" qualite="rapporteur pour avis de la commission des affaires économiques" id_acteur="PA722202" id_nomination_oe="-1" id_nomination_op="-4341012" id_mandat="PM723502">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981578" ordre_absolu_seance="29" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2674104" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. Sébastien Jumel, rapporteur pour avis de la commission des affaires économiques.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981579" ordre_absolu_seance="30" id_acteur="PA722202" id_mandat="PM723502" id_nomination_oe="-1" id_nomination_op="-4341012" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2674105" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Sébastien Jumel</nom>
+                <id>722202</id>
+                <qualite>rapporteur pour avis de la commission des affaires économiques</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Il n’est jamais trop tôt ou trop tard pour évaluer l’efficacité d’une politique publique !<br/>J’ai déjà eu l’occasion de vous le dire, madame la ministre déléguée, et je veux le redire publiquement : vous avez, pendant la crise, manifesté une grande détermination dans votre volonté d’être au chevet des entreprises ; nous devons tous les reconnaître. Les critiques que nous formulons à l’encontre du Gouvernement ne portent pas tant sur sa mobilisation que sur l’efficacité de cette mobilisation, les contrôles exercés ou les contreparties exigées – soit autant de sujets légitimes à alimenter le débat démocratique.<br/>Je constate, en revanche, que selon la taille ou l’expertise de l’entreprise, la présence d’une chambre de commerce capable de la soutenir, les compétences de la préfecture ou de la sous-préfecture en matière d’ingénierie et de conseil, bref selon l’écosystème dans lequel elle évolue, cette entreprise bénéficie d’un accès plus ou moins facilité aux dispositifs, notamment numériques.<br/>L’amendement de notre collègue Anne-Laure Blin, que je soutiendrai, a le mérite d’appeler notre attention sur cette difficulté et sur la nécessité d’évaluer l’égalité territoriale d’accès aux dispositifs d’aide lorsqu’ils sont numérisés. Il ne témoigne pas tant d’une suspicion du Parlement que de sa volonté de dresser un bilan en fin de législature. Le Gouvernement n’a cessé de porter atteinte à la fonction de contrôle et d’évaluation du Parlement – je ne parle même pas de la fonction d’élaboration de la loi ! Un tel amendement, qui ne mange pas de pain, pourrait permettre de rétablir quelque peu cette fonction.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="Mme Anne-Laure Blin" qualite="rapporteure pour avis" id_acteur="PA774954" id_nomination_oe="-1" id_nomination_op="-2324916" id_mandat="PM774972">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981583" ordre_absolu_seance="34" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2674109" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme Anne-Laure Blin,  rapporteure pour avis.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981584" ordre_absolu_seance="35" id_acteur="PA774954" id_mandat="PM774972" id_nomination_oe="-1" id_nomination_op="-2324916" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2674110" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Anne-Laure Blin</nom>
+                <id>774954</id>
+                <qualite>rapporteure pour avis</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Madame la ministre déléguée, l’INPI aura certes l’initiative en 2023, mais, comme vient de le dire M. Jumel, il n’est jamais trop tôt ou trop tard pour dresser le bilan d’un dispositif.<br/>Monsieur le rapporteur spécial, vous avez peut-être lu le second paragraphe de l’amendement, mais pas le premier : le rapport demandé viserait à dresser le bilan du fonctionnement des services en ligne créés par l’État. Comme je l’ai dit dans mon intervention liminaire, le soutien financier de l’État est important pour les entreprises, mais elles ont aussi besoin de dispositifs lisibles et compréhensibles qu’elles maîtrisent. Or on s’aperçoit, quand on va à la rencontre des chefs d’entreprise, qu’ils ne savent pas où trouver l’information sur les services à leur disposition et les aides auxquelles ils ont droit. C’est donc à nous, parlementaires, de les informer au mieux, afin qu’ils puissent identifier, de manière efficace et concrète, les dispositifs destinés à soutenir leur activité.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981586" ordre_absolu_seance="37" code_grammaire="REJET_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2674112" type_debat="PLF" valeur=" 2438" decision="REJET d’un amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant> 2438 n’est pas adopté.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981587" ordre_absolu_seance="38" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2674113" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Sur l’amendement n<exposant>o</exposant> 2389, je suis saisie par le groupe La République en marche d’une demande de scrutin public.<br/>Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.<br/>La parole est à Mme Anne-Laure Blin, rapporteure pour avis, pour soutenir l’amendement n<exposant>o</exposant> 2442.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981589" ordre_absolu_seance="40" id_acteur="PA774954" id_mandat="PM774972" id_nomination_oe="-1" id_nomination_op="-2324916" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2674115" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Anne-Laure Blin</nom>
+              <id>774954</id>
+              <qualite>rapporteure pour avis</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Il résulte également des travaux qui ont présidé à l’élaboration de mon rapport pour avis et demande un rapport au Gouvernement pour dresser le bilan de l’application de la réforme des pôles Entreprises, emploi et économie, qui aboutit aujourd’hui à la création des services économiques de l’État en région. Nous savons combien il est important pour les entreprises de connaître ces services. Il serait donc utile que le Gouvernement donne aux parlementaires les moyens d’évaluer l’impact de la réforme sur les missions d’appui aux filières stratégiques, la politique d’innovation et la transformation numérique dans les territoires, ainsi que sur la prévention des difficultés et le soutien aux restructurations d’entreprises.</texte>
+        </paragraphe>
+        <interExtraction nom_orateur="M. Xavier Roseren, quali  rapporteur spécial" id_acteur="PA721458" id_nomination_oe="-1" id_nomination_op="-4339680" id_mandat="PM723280">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981590" ordre_absolu_seance="41" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="2674116" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis de la commission ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981591" ordre_absolu_seance="42" id_acteur="PA721458" id_mandat="PM723280" id_nomination_oe="-1" id_nomination_op="-4339680" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="2674117" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Xavier Roseren</nom>
+                <id>721458</id>
+                <qualite>rapporteur spécial</qualite>
+              </orateur>
+            </orateurs>
+            <texte>La création des services économiques de l’État en région a, en effet, constitué une réforme d’ampleur. Ces services ont joué, et jouent toujours, un rôle essentiel dans la mise en œuvre du plan de relance. Au risque de vous décevoir une nouvelle fois, je suis toutefois défavorable, à titre personnel – car la commission n’a pas examiné l’amendement –, à cette demande de rapport. Il est prématuré de vouloir tirer un bilan de cette réforme.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981592" ordre_absolu_seance="43" code_grammaire="REJET_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2674118" type_debat="PLF" valeur=" 2442" decision="REJET d’un amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant> 2442, repoussé par le Gouvernement, n’est pas adopté.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981593" ordre_absolu_seance="44" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="2674119" valeur=" 2443" bibard="" art="Après_ 42" adt=" 2443" ssadt="">
+        <interExtraction nom_orateur="Mme Anne-Laure Blin" qualite="rapporteure pour avis" id_acteur="PA774954" id_nomination_oe="-1" id_nomination_op="-2324916" id_mandat="PM774972">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981593" ordre_absolu_seance="44" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2674119" type_debat="PLF" valeur=" 2443" bibard="" art="Après_ 42" adt=" 2443" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme Anne-Laure Blin, rapporteure pour avis, pour soutenir l’amendement n<exposant>o</exposant> 2443.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981594" ordre_absolu_seance="45" id_acteur="PA774954" id_mandat="PM774972" id_nomination_oe="-1" id_nomination_op="-2324916" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2674120" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Anne-Laure Blin</nom>
+                <id>774954</id>
+                <qualite>rapporteure pour avis</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Comme les précédents, il résulte des travaux que j’ai menés dans le cadre de mon rapport pour avis. Avec cet amendement, j’ouvre de nouveau le débat sur le Fonds d’intervention pour les services, l’artisanat et le commerce (FISAC). Il serait opportun que le Gouvernement informe les parlementaires, par la remise d’un rapport, sur les ressources et l’efficacité des aides apportées par l’État en remplacement des aides du FISAC. Le Gouvernement a déjà mentionné les programmes Action cœur de ville et Petites villes de demain, mais nous lui demandons de détailler l’intégralité des moyens déployés.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="M. Xavier Roseren, quali  rapporteur spécial" id_acteur="PA721458" id_nomination_oe="-1" id_nomination_op="-4339680" id_mandat="PM723280">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981595" ordre_absolu_seance="46" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="2674121" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quel est l’avis de la commission ?</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981596" ordre_absolu_seance="47" id_acteur="PA721458" id_mandat="PM723280" id_nomination_oe="-1" id_nomination_op="-4339680" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="0" id_syceron="2674122" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Xavier Roseren</nom>
+                <id>721458</id>
+                <qualite>rapporteur spécial</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Je ne reprendrai pas les arguments que j’ai développés ce matin sur le FISAC. Avis défavorable à titre personnel.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981597" ordre_absolu_seance="48" code_grammaire="REJET_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2674123" type_debat="PLF" valeur=" 2443" decision="REJET d’un amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant> 2443, repoussé par le Gouvernement, n’est pas adopté.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981598" ordre_absolu_seance="49" code_grammaire="PLF_3_1" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="2674124" type_debat="PLF" valeur=" AV">
+      <orateurs/>
+      <texte>Mission <italique>Investissements d’avenir</italique> (état B)</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981599" ordre_absolu_seance="50" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PLF_4_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2674125" type_debat="PLF" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>605991</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>J’appelle les crédits de la mission <italique>Investissements d’avenir</italique>, inscrits à l’état B.<br/>La parole est à Mme la ministre déléguée, pour soutenir l’amendement n<exposant>o</exposant> 2389 du Gouvernement.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="1981601" ordre_absolu_seance="52" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM773465" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2674127" type_debat="PLF" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Agnès Pannier-Runacher</nom>
+            <id>759832</id>
+            <qualite>ministre déléguée</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Cet amendement, que j’ai déjà présenté lors de mon intervention liminaire, est important : il vise à abonder la mission <italique>Investissements d’avenir </italique>des moyens destinés à financer le plan France 2030. Tout en s’inscrivant dans la continuité du quatrième programme d’investissements d’avenir (PIA), ce plan marque une rupture du point de vue de l’ambition et des moyens déployés pour la création de nouvelles filières industrielles. Il vise un double objectif. Le premier est la décarbonation de la France et il est, je crois, partagé sur l’ensemble des bancs de cette assemblée. Au total, 15 milliards d’euros seront consacrés à la décarbonation des mobilités, des processus industriels et des exploitations agricoles. Cette enveloppe financera également la création de nouvelles filières d’avenir, qui permettront à la France de se positionner sur le marché des technologies, de retrouver sa souveraineté technologique et donc économique, mais aussi de créer des emplois et de contribuer à l’émergence d’une Europe conquérante sur le plan industriel.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="0" ordre_absolu_seance="0" code_grammaire="FUSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2673659" type_debat="PLF" valeur="">
+        <orateurs/>
+        <texte>------------------Cette partie de la séance est en cours de finalisation---------------------------------------------</texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. Fabrice Brun, quali  suppléant Mme Marie-Christine Dalloz, rapporteure spéciale" id_acteur="PA718838" id_nomination_oe="-1" id_nomination_op="-5782336" id_mandat="PM722474">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1981520" ordre_absolu_seance="1" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2674128" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Quel est l’avis de la commission sur l’amendement du Gouvernement et sur les sous-amendements ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1981521" ordre_absolu_seance="2" id_acteur="PA718838" id_mandat="PM722474" id_nomination_oe="-1" id_nomination_op="-5782336" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2674129" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabrice Brun</nom>
+              <id>718838</id>
+              <qualite>suppléant Mme Marie-Christine Dalloz, rapporteure spéciale</qualite>
+            </orateur>
+          </orateurs>
+          <texte>La commission n’ayant pas examiné les sous-amendements, je me prononcerai à titre personnel. L’avis est favorable à l’amendement du Gouvernement, ainsi qu’aux sous-amendements de coordination n<exposant>o</exposant><exposant>s</exposant> 3516 et 3520 de Mme Dalloz. Concernant les quatre autres sous-amendements, l’avis est défavorable puisqu’ils sont satisfaits : la loi prévoit d’ores et déjà que le Parlement reçoive tous les trimestres un reporting sur la gestion des fonds alloués au titre de la mission <italique>Investissements d’avenir</italique>. En outre, le jaune budgétaire portant sur la mise en œuvre des investissements d’avenir précise le montant des décaissements réalisés depuis 2010.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Pannier-Runacher, quali  ministre déléguée" id_acteur="PA759832" id_nomination_oe="PM773465" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1981522" ordre_absolu_seance="3" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_10" sommaire="0" id_syceron="2674130" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Quel est l’avis du Gouvernement sur les sous-amendements ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1981523" ordre_absolu_seance="4" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM773465" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_20" sommaire="0" id_syceron="2674131" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte>L’avis est favorable aux sous-amendements n<exposant>o</exposant><exposant>s</exposant> 3516 et 3520, qui sont de précision, et défavorable aux autres pour les mêmes raisons que celles exposées par M. le suppléant de Mme la rapporteure spéciale.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. François Ruffin" id_acteur="PA722142" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723484">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1981524" ordre_absolu_seance="5" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2674132" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. François Ruffin.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1981525" ordre_absolu_seance="6" id_acteur="PA722142" id_mandat="PM723484" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2674133" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. François Ruffin</nom>
+              <id>722142</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous l’aurez compris, notre série de sous-amendements a vocation à susciter un débat sur ce que doit être la France de 2030. Certes, d’autres missions budgétaires doivent être examinées et nous sommes un peu pressés par le temps, mais il n’empêche : c’est tout de même assez incroyable de se dire qu’en un petit bout d’après-midi, nous devions dessiner ce que sera la France dans une décennie.<br/>Dans le domaine des transports, l’avion vert est-il vraiment l’avenir, alors que les patrons d’Airbus ou d’Air France, ou encore les associations de transporteurs, nous affirment que ce ne sera pas possible avant 2035 ou même 2050 ? Ne devrions-nous pas plutôt tout faire pour plafonner l’usage de l’avion, en faisant en sorte qu’il reste accessible à tous, tout en limitant son utilisation pour ceux qui y ont recours comme on prendrait le métro ?<br/>S’agissant de l’énergie, doit-on s’interroger sur la production nucléaire de proximité ou, en premier lieu, sur les moyens permettant d’économiser de l’énergie dans les domaines du logement, du chauffage ou des transports ? Pour le monde agricole, après la chimisation et la mécanisation, l’avenir est-il dans la génétique, la robotique et le numérique ou, au contraire, dans une agriculture de proximité ? En matière de santé, va-t-on s’en sortir en investissant dans des technologies de rupture ou, plus simplement, dans des lits et en recrutant les infirmières et les soignants dont on aurait déjà tant besoin aujourd’hui ?<br/>Voilà qui mérite un grand débat ; mais celui-ci n’a pas lieu, que ce soit ici ou ailleurs : c’est le Président de la République qui a imposé ce que devra être la France de 2030. Il est assez incroyable d’examiner tous ces enjeux à la six-quatre-deux, au détour d’un petit bout d’après-midi.</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1981529" ordre_absolu_seance="10" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PRESIDE_DISCOURS_1_10" sommaire="0" id_syceron="2674137" type_debat="PLF" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>605991</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Merci, monsieur Ruffin.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1981530" ordre_absolu_seance="11" id_acteur="PA722142" id_mandat="PM723484" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2674138" type_debat="PLF" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Ruffin</nom>
+            <id>722142</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Et mon collègue Coquerel n’a pas eu de réponse à une question qui était précise.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1981530" ordre_absolu_seance="76" code_grammaire="SORT_SS_ADT_1_20" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2674152" type_debat="PLF" valeur=" 3516 et 3520" decision="ADOPTION de plusieurs sous-amendements (main levée) ss-adts">
+        <orateurs/>
+        <texte>
+          <italique>(Les sous-amendements n<exposant>os</exposant>  3516 et 3520, successivement mis aux voix, sont adoptés.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1981533" ordre_absolu_seance="77" code_grammaire="SORT_SS_ADT_1_80_1" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2674141" type_debat="PLF" valeur=" 3522, 3517 et 3519" decision="REJET de plusieurs sous-amendements (main levée) ss-adts">
+        <orateurs/>
+        <texte>
+          <italique>(Les sous-amendements n<exposant>os</exposant> 3522, 3517 et 3519, successivement mis aux voix, ne sont pas adoptés.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1981534" ordre_absolu_seance="78" code_grammaire="ADOP_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2674142" type_debat="PLF" valeur=" 2388" decision="ADOPTION amendement (main levée) adt">
+        <orateurs/>
+        <texte>
+          <italique>(L’amendement n<exposant>o</exposant> 2388, sous-amendé, est adopté.)</italique>
+        </texte>
+      </paragraphe>
+      <point nivpoint="99" valeur_ptsodj="1" ordinal_prise="8" id_preparation="1981535" ordre_absolu_seance="79" code_grammaire="SUSP_SEANCE_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="2674143" type_debat="PLF" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>Suspension et reprise de la séance</italique>
+        </texte>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1981536" ordre_absolu_seance="80" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="SUSP_SEANCE_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2674144" type_debat="PLF" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La séance est suspendue.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1981537" ordre_absolu_seance="81" code_grammaire="SUSP_SEANCE_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2674145" type_debat="PLF" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance, suspendue à seize heures cinquante, est reprise à seize heures cinquante-cinq.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1981538" ordre_absolu_seance="82" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="SUSP_SEANCE_2_3" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2674146" type_debat="PLF" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La séance est reprise.<br/>La parole est à M. Éric Coquerel, pour soutenir l’amendement n<exposant>o</exposant> 1159.</texte>
+        </paragraphe>
+      </point>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="1981540" ordre_absolu_seance="84" id_acteur="PA721202" id_mandat="PM723202" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2674148" type_debat="PLF" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Éric Coquerel</nom>
+            <id>721202</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Tout à l’heure, nous avons discuté d’un amendement à 34 milliards d’euros. Malheureusement, je doute que la presse s’occupe beaucoup de nos débats ; c’est dommage. Les journalistes ne l’auront donc pas relevé, madame la ministre déléguée : à deux reprises, je vous ai demandé un bilan détaillé au sujet du dernier plan d’investissement annoncé en 2017 par le Président de la République, et je n’ai pas eu de réponse.<br/>J’en reviens à l’amendement : il vise à conditionner les aides de la mission <italique>Investissements d’avenir</italique> à l’absence de versements de dividendes ou de licenciements non justifiés par la crise. Tout à l’heure, j’entendais parler de l’importance du plan France 2030, notamment pour le secteur aérospatial et les technologies d’avenir. Je vais vous parler de l’entreprise PGE, dont les salariés ont saisi le tribunal administratif de Cergy-Pontoise, pour demander la suspension du plan social annoncé il y a quelques mois. Cette entreprise fabrique du mastic de haute technologie. Cela suppose une grande technicité : elle est la seule en France à produire ce type de mastic pour le secteur aérospatial ; ses clients sont Dassault et Aérospatiale.<br/>Il y a cinq ans, l’entreprise a été rachetée par un fonds de pension américain. Celui-ci a profité du crédit d’impôt pour la compétitivité et l’emploi (CICE), du crédit d’impôt recherche et, évidemment, des aides mises en place pendant la crise du covid-19. Bilan : cinq ans plus tard, il décide de délocaliser PGE en emportant les brevets – ce qui interdira toute reprise en France –, tout en conservant, évidemment, les clients français d’une entreprise qui faisait des bénéfices. À l’avenir, nous ne souhaitons plus que d’autres entreprises subissent le même sort que PGE.<br/>Il n’est pas normal que des entreprises du CAC40 – qui ont touché des milliards d’euros d’aides publiques pendant la crise du covid-19 – distribuent 51 milliards d’euros de dividendes en 2021 et que, dans le même temps, elles annoncent le licenciement de 30 000 personnes en France.<br/>C’est quelque chose d’insupportable. Chacun devrait comprendre que l’argent public ne peut servir à licencier, en tout cas à procéder à des licenciements sans légitimité économique, qui ne visent qu’à augmenter les profits et les dividendes.</texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. Fabrice Brun, quali  suppléant Mme Marie-Christine Dalloz, rapporteure spéciale" id_acteur="PA718838" id_nomination_oe="-1" id_nomination_op="-5782336" id_mandat="PM722474">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981603" ordre_absolu_seance="2" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2674154" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Quel est l’avis de la commission ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981604" ordre_absolu_seance="90" id_acteur="PA718838" id_mandat="PM722474" id_nomination_oe="-1" id_nomination_op="-5782336" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2674155" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Fabrice Brun</nom>
+              <id>718838</id>
+              <qualite>suppléant Mme Marie-Christine Dalloz, rapporteure spéciale</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Mon avis vaudra pour les trois amendements n<exposant>os</exposant> 1159, 1158 et 1157.<br/>Je suis pour ma part opposé au principe de conditionnalité des aides, et ce pour plusieurs raisons. En premier lieu, le PIA et France 2030 visent à aider des entreprises innovantes pour préparer le pays aux défis économiques de demain. Subordonner le versement des aides à de multiples critères ne permettrait pas de sélectionner les meilleurs projets, les projets les plus innovants.<br/>Ensuite, nos entreprises sortent à peine d’une crise économique sans précédent, et ajouter de la complexité administrative, alors que les procédures d’octroi des fonds PIA sont déjà très encadrées, me paraît inopportun.<br/>Enfin, vous souhaitez conditionner le versement des aides à des engagements en matière de réduction des gaz à effet de serre, mais je vous rappelle que la décarbonation de l’économie est justement un des principaux objectifs de France 2030 : 50 % des crédits ouverts dans ce cadre y sont consacrés.<br/>Je vous invite donc une fois de plus à veiller, ce qui est notre rôle de parlementaires, au contrôle de l’action du Gouvernement afin de vérifier que ces objectifs soient atteints. Avis défavorable.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Pannier-Runacher, quali  ministre déléguée" id_acteur="PA759832" id_nomination_oe="PM773465" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981605" ordre_absolu_seance="4" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_10" sommaire="0" id_syceron="2674156" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Quel est l’avis du Gouvernement ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981606" ordre_absolu_seance="5" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM773465" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_GVT_1_20" sommaire="0" id_syceron="2674157" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Monsieur Coquerel, puisque vous avez absolument besoin d’un retour sur le plan d’investissement, annoncé en 2017, je rappelle qu’il existait l’an dernier un jaune budgétaire vous donnant tous les détails de ce plan, qui regroupe du PIA, sur lequel vous avez tous les éléments, le plan d’investissement dans les compétences, sur lequel vous avez également tous les éléments de <italique>reporting</italique>, ainsi que les actions de la Banque des territoires et de la Caisse des dépôts et consignations, notamment dans les infrastructures. Cette information a été rendue disponible. On peut la ressortir, faire de l’archéologie <italique>(M. Éric Coquerel rit)</italique>, mais cela ne révélerait aucune nouveauté.<br/>Vous l’avez compris, il ne s’agit pas tout à fait de la même logique de plan puisque nous parlons, dans France 2030, de la partie innovation et industrialisation. Les autres sujets mentionnés par M. Ruffin, la santé, les lits et l’équipement des hôpitaux, les recrutements, sont traités dans d’autres plans et par des moyens sans égal avec ce qui existait lorsque nous sommes arrivés au Gouvernement.<br/>Nous savons de quoi est faite la France de 2030 : c’est la vision d’une France décarbonée, qui associe tous les Français et fait en sorte qu’ils vivent mieux, dans un pays plus autonome stratégiquement, et qu’ils puissent voir grandir leurs enfants dans de meilleures conditions.<br/>Avis défavorable sur l’amendement. Vous avez voulu parler, je pense, de l’entreprise PPG Industries et non PGE. Cette société n’est d’ailleurs pas détenue par des fonds de pension mais par un industriel américain, ce qui n’empêche en rien le suivi que nous menons avec la députée Fiona Lazaar.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Éric Coquerel" id_acteur="PA721202" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723202">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981610" ordre_absolu_seance="9" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2674161" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je vous propose, monsieur Coquerel, de présenter ensemble les trois amendements n<exposant>os</exposant> 1159, 1158 et 1157.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981611" ordre_absolu_seance="10" id_acteur="PA721202" id_mandat="PM723202" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2674162" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Coquerel</nom>
+              <id>721202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>C’est M. Ruffin qui présentera les deux suivants, qui portent sur des conditionnalités écologiques. Je souhaite quant à moi réagir à ce qui vient d’être répondu.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981612" ordre_absolu_seance="11" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2674163" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous avez la parole.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981613" ordre_absolu_seance="12" id_acteur="PA721202" id_mandat="PM723202" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2674164" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Coquerel</nom>
+              <id>721202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Oui, madame la ministre déléguée, je demande le bilan : c’est mon droit de parlementaire. Puisque vous me parlez du jaune, cela vaut réponse. Le jaune n’indique que 10 milliards de crédits nouveaux alors que 57 milliards avaient été annoncés. Nous avons donc la réponse du Gouvernement : il n’y a rien eu de nouveau. Aujourd’hui, et c’est évidemment lié à ce que je viens de relever, vous nous annoncez une enveloppe de 34 milliards d’euros, dont 30 milliards en autorisations d’engagment (AE) et non en crédits de paiement. Chat échaudé craint l’eau froide : on peut ici augurer le même avenir que pour le GPI ou les trois PIA, avec, sur 60 milliards annoncés, seulement 30 milliards décaissés.<br/>Vous avez raison sur le nom de PPG, et je sais que vos services travaillent sur ce dossier ; mais vous vous êtes contentée d’accompagner le plan social. Une entreprise touche des fonds publics, licencie en France, prend les brevets et les exporte ailleurs avec des clients français : je le dis pour répondre aussi à M. Brun, que j’ai connu plus social. Si vous pensez que cet exemple, qui n’est pas unique, est normal, nous n’avons pas la même conception des choses. Je considère que, comme le souligne le troisième rapport de France Stratégie, de l’argent donné aux entreprises sans contreparties ne nourrit ni l’investissement, ni les salaires, ni l’emploi.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Sébastien Jumel" id_acteur="PA722202" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723502">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981615" ordre_absolu_seance="14" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2674166" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Sébastien Jumel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981616" ordre_absolu_seance="15" id_acteur="PA722202" id_mandat="PM723502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2674167" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Jumel</nom>
+              <id>722202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Notre collègue Brun, quand il siège de l’autre côté de l’hémicycle, est plutôt sympathique et efficace dans son opposition.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981617" ordre_absolu_seance="16" id_acteur="PA721474" id_mandat="PM723286" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2674168" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Viry</nom>
+              <id>721474</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Toujours !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981618" ordre_absolu_seance="108" id_acteur="PA722202" id_mandat="PM723502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2674169" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Jumel</nom>
+              <id>722202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Là, dans le rôle de suppléant de la rapportreure spéciale, il vient d’enfiler son costard libéral. Il est complètement idiot, pardon de le dire avec cette franchise, de se déclarer contre la conditionnalité des aides ! <italique>(M. François Ruffin applaudit.)</italique><br/>Lorsqu’il s’agit d’aider les pauvres, on va toujours regarder quelles contreparties il faut prévoir et de quels détournements ils sont capables pour survivre. L’objet de France 2030 est la souveraineté industrielle. Après la crise que nous venons de traverser, ce n’est pas une mince affaire ! Savoir si l’innovation sera au service de la protection de la planète, ce n’est pas non plus une question complètement stupide, ni si cela nous permettra de recréer de l’emploi dans nos territoires !<br/>Si nous ne sommes pas au service de l’emploi dans nos territoires, d’une innovation qui permette de recouvrer une souveraineté industrielle, dans le respect de la planète et des hommes et femmes qui y vivent, je ne sais pas à quoi nous servons. Même les gens du Mouvement des entreprises de France (MEDEF), de France Stratégie, les gens de droite, disent aujourd’hui qu’il n’est pas complètement idiot de vouloir que les aides publiques soient efficaces, opérantes et servent leur objectif.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Agnès Pannier-Runacher, quali  ministre déléguée" id_acteur="PA759832" id_nomination_oe="PM773465" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981619" ordre_absolu_seance="18" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2674170" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme la ministre déléguée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981620" ordre_absolu_seance="19" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM773465" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2674171" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Il y a un malentendu. Ces aides sont conditionnées par la réalisation du programme. Les entreprises perçoivent des avances mais doivent ensuite justifier de l’utilisation des crédits, sur la base des factures. Dans les dispositifs industriels prévus dans le cadre de France relance, par exemple, les aides sont conditionnées à la présentation des factures, lesquelles correspondent à des éléments de programme d’investissement dans des sites. J’imagine qu’il peut y avoir des abus, comme toujours, mais je vois difficilement comment on peut à la fois financer d’autres dépenses et la machine à commande numérique qui figure dans votre plan d’investissement. Ce que vous dites n’est donc pas vrai.<br/>Je voudrais aussi que l’on sorte de la caricature. PPG est un exemple. J’entends que l’accompagnement social ne soit pas satisfaisant mais, soyons clairs, 85 % des bénéficiaires du plan de relance sont des PME – petites et moyennes entreprises – et des ETI – entreprises de taille intermédiaire – qui produisent en France, non des entreprises du CAC40 qui financeraient leurs projets en Inde. C’est complètement à côté de la plaque, pardonnez-moi !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981621" ordre_absolu_seance="114" id_acteur="PA721202" id_mandat="PM723202" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2674244" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Coquerel</nom>
+              <id>721202</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Les enreprises du CAC40 reçoivent quand même beaucoup d’argent public !</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981622" ordre_absolu_seance="21" code_grammaire="REJET_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2674173" type_debat="PLF" valeur=" 1159" decision="REJET d’un amendement (main levée) adt">
+        <orateurs/>
+        <texte>
+          <italique>(L’amendement n<exposant>o</exposant> 1159 n’est pas adopté.)</italique>
+        </texte>
+      </paragraphe>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981623" ordre_absolu_seance="116" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" orateur="" code_grammaire="DISC_ARTICLES_3_9_1" code_parole="" sommaire="1" id_syceron="2674174" valeur=" 1158 et 1157" bibard="" art="Après_ 42" adt=" 1158 et 1157" ssadt="">
+        <interExtraction nom_orateur="M. François Ruffin" id_acteur="PA722142" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723484">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981623" ordre_absolu_seance="116" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_3_9_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2674174" type_debat="PLF" valeur=" 1158 et 1157" bibard="" art="Après_ 42" adt=" 1158 et 1157" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. François Ruffin, pour soutenir les amendements n<exposant>os</exposant> 1158 et 1157, qui peuvent faire l’objet d’une présentation groupée.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981624" ordre_absolu_seance="23" id_acteur="PA722142" id_mandat="PM723484" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2674175" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. François Ruffin</nom>
+                <id>722142</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Comment se fait-il que, quand il s’agit de donner des centaines d’euros aux gens, tout est très conditionné, surveillé, contrôlé, mais quand il s’agit de millions, de centaines de millions ou de milliards versés aux enrtreprises, là, tout est beaucoup moins contrôlé et fléché ? Nous souhaitons conditionner les aides à l’absence de licenciements, ce que n’induit pas la réalisation d’un projet, et celle-ci n’empêche pas non plus les entreprises bénéficiaires de frauder le fisc en transférant leurs comptes dans certaions pays. J’ai ainsi cité OpenLux à la tribune. Trente-sept des cinquante plus grandes fortunes françaises ont des comptes au Luxembourg. Même si la majorité des fonds vont à des PME, de grands groupes peuvent en percevoir ; dans ce cas, acceptez-vous que ce soient des groupes ayant des comptes au Luxembourg ou ailleurs ? Nous souhaitons enfin des garanties que ce soit positif au plan écologique plutôt que l’inverse.<br/>De manière plus globale, vous posez une relation de synonymie entre innovation technologique et progrès humain. Cela a pu être vrai pendant des décennies, dans l’esprit des gens, mais il s’est produit une rupture, avec Hiroshima, Fukushima, Bhopal, l’<italique>Erika</italique>, le réchauffement climatique, l’affaire de la biodiversité… Je ne dis pas que l’innovation technologique produit automatiquement des catastrophes mais il n’y a plus de relation d’équivalence entre innovation technologique et progrès humain. Cela signifie qu’il faut opérer un tri entre les technologies que nous voulons développer et les autres. Or le tri ne se fera pas démocratiquement ici mais est laissé au marché et au Président de la République. <italique>(M. Éric Coquerel applaudit.)</italique></texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981626" ordre_absolu_seance="25" code_grammaire="AM8ENDSORT_REJET_IDENTIQUES" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2674177" type_debat="PLF" valeur=" 1158 et 1157" decision="REJET de plusieurs amendements (main levée) adts">
+          <orateurs/>
+          <texte>
+            <italique>(Les amendements n<exposant>os</exposant> 1158 et 1157, repoussés par la commission et le Gouvernement, successivement mis aux voix, ne sont pas adoptés.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981627" ordre_absolu_seance="26" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PRESIDE_DISCOURS_1_10" sommaire="0" id_syceron="2674178" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous avons terminé l’examen des amendements à l’article additionnel après l’article 42 sur les investissements d’avenir.</texte>
+        </paragraphe>
+      </point>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981628" ordre_absolu_seance="27" code_grammaire="VOTE_CRED_DIR_1_10" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="2674179" type_debat="PLF" valeur=" ZA">
+      <orateurs/>
+      <texte>Compte d’affectation spéciale <italique>Accords monétaires internationaux</italique> (état D)</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981629" ordre_absolu_seance="28" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="VOTE_CRED_DIR_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2674180" type_debat="PLF" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>605991</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>J’appelle les crédits du compte d’affectation spéciale <italique>Accords monétaires internationaux</italique>, inscrits à l’état D.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981630" ordre_absolu_seance="29" code_grammaire="VOTE_CRED_DIR_2_20" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2674181" type_debat="PLF" valeur="" decision="">
+        <orateurs/>
+        <texte><italique>(Les crédits du compte d’affectation spéciale </italique>Accords monétaires internationaux<italique> sont adoptés.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981631" ordre_absolu_seance="30" code_grammaire="VOTE_CRED_DIR_1_10" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="2674182" type_debat="PLF" valeur=" ZF">
+      <orateurs/>
+      <texte>Compte d’affectation spéciale <italique>Prêts et avances à des particuliers ou à des organismes privés</italique> (état D)</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981632" ordre_absolu_seance="31" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="VOTE_CRED_DIR_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2674183" type_debat="PLF" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>605991</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>J’appelle les crédits du compte d’affectation spéciale <italique>Prêts et avances à des particuliers ou à des organismes privés</italique>, inscrits à l’état D.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981633" ordre_absolu_seance="32" code_grammaire="VOTE_CRED_DIR_2_20" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2674184" type_debat="PLF" valeur="" decision="">
+        <orateurs/>
+        <texte><italique>(Les crédits du compte d’affectation spéciale </italique>Prêts et avances à des particuliers ou à des organismes privés<italique> sont adoptés.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981634" ordre_absolu_seance="33" code_grammaire="PLF_3_1" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="2674185" type_debat="PLF" valeur=" EB">
+      <orateurs/>
+      <texte>Mission <italique>Engagements financiers de l’État</italique> (état B)</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981635" ordre_absolu_seance="34" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PLF_4_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2674186" type_debat="PLF" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>605991</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>J’appelle les crédits de la mission <italique>Engagements financiers de l’État</italique>, inscrits à l’état B.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981636" ordre_absolu_seance="35" code_grammaire="DISC_ARTICLES_2_4" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="2674187" type_debat="PLF" valeur=" 20" bibard="" art=" 20" adt="" ssadt="">
+      <orateurs/>
+      <texte>Article 20</texte>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981637" ordre_absolu_seance="36" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="2674188" valeur=" 2708" bibard="" art=" 20" adt=" 2708" ssadt="">
+        <interExtraction nom_orateur="Mme Agnès Pannier-Runacher, quali  ministre déléguée" id_acteur="PA759832" id_nomination_oe="PM773465" id_nomination_op="-1" id_mandat="-1">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981637" ordre_absolu_seance="36" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2674188" type_debat="PLF" valeur=" 2708" bibard="" art=" 20" adt=" 2708" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme la ministre déléguée, pour soutenir l’amendement n<exposant>o</exposant> 2708.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981638" ordre_absolu_seance="37" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM773465" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2674189" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Agnès Pannier-Runacher</nom>
+                <id>759832</id>
+                <qualite>ministre déléguée</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Le présent amendement procède à une augmentation de 1,133 milliard d’euros en AE et en CP sur le programme 117 <italique>Charge de la dette et trésorerie de l’État</italique>. Cette révision à la hausse de 1,1 milliard de la charge de la dette en 2022 par rapport au PLF s’explique d’abord par un effet de 0,8 milliard dû à une révision à la hausse des prévisions d’inflation en zone euro, et vous savez que nous avons pris en compte l’avis du Haut Conseil des finances publiques (HCFP), ensuite par un effet de + 0,3 milliard d’euros lié à l’intégration des émissions de dette et des taux effectivement constatés entre début septembre, date de la prévision pour le PLF 2022, et mi-octobre, qui ont un effet sur la ventilation du programme d’émissions futures.</texte>
+          </paragraphe>
+        </interExtraction>
+        <interExtraction nom_orateur="Mme Bénédicte Peyrol, quali  rapporteure spéciale de la commission des finances, de l'économie générale et du contrôle budgétaire" id_acteur="PA718736" id_nomination_oe="-1" id_nomination_op="-5779520" id_mandat="PM722440">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981639" ordre_absolu_seance="38" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_10" sommaire="0" id_syceron="2674190" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme Bénédicte Peyrol, rapporteure spéciale de la commission des finances, de l’économie générale et du contrôle budgétaire, pour donner l’avis de la commission.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981640" ordre_absolu_seance="39" id_acteur="PA718736" id_mandat="PM722440" id_nomination_oe="-1" id_nomination_op="-5779520" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="AVIS_COM_1_20" sommaire="1" id_syceron="2674191" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Bénédicte Peyrol</nom>
+                <id>718736</id>
+                <qualite>rapporteure spéciale de la commission des finances, de l’économie générale et du contrôle budgétaire</qualite>
+              </orateur>
+            </orateurs>
+            <texte>Cet amendement n’ayant pas été examiné par la commission, je donne un avis personnel. Il s’agit d’un ajustement des indicateurs macro-économiques et Mme la ministre a rappelé l’avis du HCFP. J’y suis favorable. Pour l’information de la représentation nationale, environ 10 % du programme des émissions de dette sont indexés sur l’inflation. Il est important de garder une partie de ce programme indexé sur l’inflation, c’est une demande des investisseurs, il existe une appétence pour ce type de titres.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981641" ordre_absolu_seance="40" code_grammaire="ADOP_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2674192" type_debat="PLF" valeur=" 2708" decision="ADOPTION amendement (main levée) adt">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant> 2708 est adopté.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981642" ordre_absolu_seance="41" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="2674193" valeur=" 1168" bibard="" art=" 20" adt=" 1168" ssadt="">
+        <interExtraction nom_orateur="M. Éric Coquerel" id_acteur="PA721202" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM723202">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981642" ordre_absolu_seance="41" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2674193" type_debat="PLF" valeur=" 1168" bibard="" art=" 20" adt=" 1168" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>605991</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à M. Éric Coquerel, pour soutenir l’amendement n<exposant>o</exposant> 1168.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="1981643" ordre_absolu_seance="42" id_acteur="PA721202" id_mandat="PM723202" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2674194" type_debat="PLF" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Éric Coquerel</nom>
+                <id>721202</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Cet amendement vise à dénoncer l’ineptie de la politique de cantonnement de la dette dont vous avez décidé, à savoir l’idée de réserver une partie des recettes de l’État au remboursement de la dette covid, un peu comme la Caisse d’amortissement de la dette sociale (CADES) au niveau des budgets de la sécurité sociale. Cela explique très certainement pourquoi vous avez annoncé que d’ici à 2027 les crédits, si M. Macron est réélu, ne connaîtraient qu’une augmentation de 0,7 % chaque année, ce qui serait une baisse historique par rapport aux besoins de la population, et je le dénonce.<br/>C’est dommage que nous ne puissions pas présenter de graphiques dans cet hémicycle car vous nous montrez souvent un certain graphique pour véhiculer l’idée que nous avons retrouvé le niveau de croissance d’avant la crise. Sauf que, sur ce graphique, on voit entre les deux une sorte d’entonnoir indiquant ce que nous avons perdu comme production de richesse. Si l’activité a pu redémarrer, c’est justement parce que la dette covid a été mise au service de l’activité économique et des entreprises.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="10" id_preparation="0" ordre_absolu_seance="0" code_grammaire="FUSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2673667" type_debat="PLF" valeur="">
+          <orateurs/>
+          <texte>------------------Cette partie de la séance est en cours de finalisation---------------------------------------------</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="21" id_preparation="1981836" ordre_absolu_seance="1" id_acteur="PA729332" id_mandat="-1" id_nomination_oe="PM773437" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2674245" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Julien Denormandie</nom>
+              <id>729332</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Concernant les scolytes, ensuite, les conclusions de la mission interministérielle qui y a été consacrée ont été rendues. Un amendement a bien été adopté, comme nous nous y étions engagés, dans le budget de la mission <italique>Cohésion des territoires</italique>, afin de permettre un abondement supplémentaire en faveur des communes scolytées, selon un processus prévu par la mission. Nous allons aussi prolonger l’application du dispositif « scolytes » jusque dans le courant de l’année 2022, respectant là encore un engagement que nous avions pris.<br/>Enfin, la question de savoir quelles essences doivent être privilégiées est probablement la plus difficile à résoudre : même si j’avais dix minutes plutôt que deux, je serais bien en peine de vous répondre. J’ai pourtant reçu une formation en la matière, puisque c’était ma spécialité lorsque j’étais à l’École nationale du génie rural, des eaux et des forêts (ENGREF), mais c’est vraiment un problème très difficile. Prenons par exemple la hêtraie de Lyons-la-Forêt : on est en train de se demander s’il ne faudrait pas arrêter d’y planter des hêtres. Vous imaginez ne plus pouvoir mettre de hêtres dans une hêtraie – ou au moins une partie de hêtraie – multicentenaire ? C’est une sacrée responsabilité. L’un des groupes de travail réunis dans le cadre des Assises de la forêt et du bois, que nous avons lancées il y a maintenant un mois et demi, est spécifiquement dédié à cette question ; si vous voulez vous y associer, vos collègues Rémy Rebeyrotte et Anne-Laure Cattelot, notamment, y participent.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="21" id_preparation="1981838" ordre_absolu_seance="3" id_acteur="PA721474" id_mandat="PM723286" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2674247" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Stéphane Viry</nom>
+              <id>721474</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>J’y suis !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="21" id_preparation="1981839" ordre_absolu_seance="4" id_acteur="PA729332" id_mandat="-1" id_nomination_oe="PM773437" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2674248" type_debat="PLF" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Julien Denormandie</nom>
+              <id>729332</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Et vous y êtes ? C’est parfait. Pour ce qui est des communes forestières, j’ai  encore rencontré Dominique Jarlier ce matin, afin que nous avancions de manière constructive sur le sujet.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="21" id_preparation="1981840" ordre_absolu_seance="5" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="FIN_SEAN_1_0" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2674249" type_debat="PLF" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous en avons terminé avec les questions.</texte>
+        </paragraphe>
+      </point>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="21" id_preparation="1981842" ordre_absolu_seance="7" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="2674251" type_debat="PLF" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="21" id_preparation="1981843" ordre_absolu_seance="8" id_acteur="PA605991" id_mandat="PM722660" id_nomination_oe="-1" id_nomination_op="PM759200" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2674252" type_debat="PLF" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>605991</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Prochaine séance, ce soir, à vingt et une heures trente :<br/>Suite de la discussion de la seconde partie du projet de loi de finances pour 2022 :<br/> Suite de l’examen des crédits de la mission <italique>Agriculture, alimentation, forêt et affaires rurales</italique>.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="21" id_preparation="1981844" ordre_absolu_seance="9" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2674253" type_debat="PLF" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à vingt heures.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="21" id_preparation="1981845" ordre_absolu_seance="10" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="2674254" type_debat="PLF" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le directeur des comptes rendus</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>
