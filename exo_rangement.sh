@@ -37,7 +37,6 @@ tab=()
 
 # Fonction pour créer un sous répertoire pour chaque extension
 function sousRepertoire(){
-    # Boucle for pour parcourir le tableau avec les extentions
     for filename in *; do
         if [[ -f "$filename" ]]; then
             base=${filename%.*}
