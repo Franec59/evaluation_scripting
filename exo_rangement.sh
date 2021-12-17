@@ -134,7 +134,8 @@ function main(){
     # controler la validité du dossier saisit
     controlDossier
     # Fonction pour classer le dossier en sous répertoire
-    classer
+    #classer
+    sousRepertoire
     
 
 }
